@@ -1,0 +1,12 @@
+ipykernel
+streamlit
+pandas
+seaborn
+matplotlib
+yfinance
+mplfinance
+pandas_datareader
+openpyxl
+pandas_ta
+vectorbt
+pyngrok
