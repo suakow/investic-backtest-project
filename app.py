@@ -26,7 +26,7 @@ st.title('Investic Event by Puri(suakow)')
 """
 
 # Load Data
-price_df = pd.read_pickle('~/sagemaker-studiolab-notebooks/workspace/investic_backtest-project/data/btcusd_20210101_20220430.bin')
+price_df = pd.read_pickle('data/btcusd_20210101_20220430.bin')
 st.dataframe(data=price_df)
 
 """
