@@ -122,4 +122,6 @@ st.plotly_chart(port.plot())
 
 ### ข้อเสนอแนะและแนวทางแก้ไขเบื้องต้น
 - ศึกษา Indicator ที่สามารถช่วย detect sideway ให้ดีขึ้น
+
+สำหรับ Code อยู่ใน [Link นี้](https://github.com/suakow/investic-backtest-project/blob/master/app.py) 
 """
